@@ -4,6 +4,8 @@ AbdelaliBot(@Devsync_bot) is a telegram bot that allows individuals to provide s
 
 The Mobile application version of AbdelaliBot is coming soon.
 
+(Bot is still being developed)
+
 # Abdelali Features:
 - Discord third party use, Developers will be able to connect their Discord bot to AbdelaliBot and use the Abdelali features.
 - Programming Q&A, Abdelali will be able to answer questions relating to programming
