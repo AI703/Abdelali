@@ -2,6 +2,8 @@
 
 AbdelaliBot(@Devsync_bot) is a telegram bot that allows individuals to provide software idea recommendations, which reaches many developers. You won't have to worry about using freelancing websites or using subreddits(these also reaches only developers within that subreddit) Devsync will allow you to communicate with many developers throughout many platforms e.g. slack, discord, telegram, IRC, etc.
 
+Developers will also have accounts, and will be able to login and check their messages, etc. as so will the individuals sending the app ideas.
+
 The Mobile application version of AbdelaliBot is coming soon.
 
 (Bot is still being developed)
